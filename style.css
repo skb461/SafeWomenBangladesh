@@ -1,0 +1,78 @@
+
+.bg-prime{
+	background: #0397D7;
+}
+.t_prime{
+	color: #0397D7;
+}
+.logo_image{
+	width: 200px;
+}
+.image_div{
+	height: 800px;
+	overflow: hidden;
+}
+.image_1{
+	background-image: url("image/A1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.image_2{
+	background-image: url("image/A2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.image_3{
+	background-image: url("image/A4.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.card_text{
+	margin-left: -400px;
+	left: 0%;
+	height: 800px;	
+	background-image: linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,.6), rgba(0,0,0,.5), rgba(0,0,0,.2), rgba(0,0,0,.1));
+}
+.text_sml{
+	margin-top: -30px;
+	margin-left: -30px;
+}
+.text_sml_2{
+	margin-top: -10px;
+	margin-right: -30px;
+}
+.bg-sec{
+	background: #999999;
+}
+.card_mission{
+	height: 100px;
+}
+.card_mission_image{
+	background: rgba(225,225,225,.5);
+	border-radius: 10px;
+}
+
+.mission_cd{
+	height: 150px;
+  /*background-image: url("image/265935137_602580794383749_4370111740532455410_n.png"); */
+  background-position: center; 
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+.support{
+	height: 350px;
+}
+.ptrn_btn{
+	padding-top: 350px;
+}
+.text_overlay{
+	padding-top: 300px;
+}
+.ammbasidor{
+	background: linear-gradient(to top, rgba(225,225,225,1), rgba(225,225,225,.9),rgba(225,225,225,.4), rgba(225,225,225,.2), rgba(225,225,225,.0));
+	height: 500px;
+	width: 330px;
+}
