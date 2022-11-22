@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;1000&display=swap');
+
 *{
 	margin: 0;
 	padding: 0;
@@ -51,16 +52,11 @@
 .bg-sec{
 	background: #999999;
 }
-/* .card_mission{
-	height: 80px;
-} */
 
 .mission_cd{
 	height: 150px;
-  /*background-image: url("image/265935137_602580794383749_4370111740532455410_n.png"); */
-  background-position: center; 
-  background-repeat: no-repeat;
-  /* background-size: cover; */
+	background-position: center; 
+	background-repeat: no-repeat;
 }
 .support{
 	height: 350px;
@@ -76,7 +72,6 @@
 }
 .ammbasidor{
 	background: linear-gradient(to top, rgba(3,151,215,1), rgba(3,151,215,.9),rgba(3,151,215,.4), rgba(3,151,215,.2), rgba(3,151,215,.0));
-	/*background: #0397D7;*/
 	height: 500px;
 	width: 330px;
 }
@@ -88,8 +83,56 @@
 }
 .icon{
 	height: 50px;
-  filter: invert(100%);
+	filter: invert(100%);
 }
 .icon_BTN{
 	padding-top: 10px;
+}
+.next{
+	padding-top: 250px;
+}
+.text_overlay_team{
+	padding-top: 180px;
+	background: linear-gradient(to top, rgba(3,151,215,1), rgba(3,151,215,.9),rgba(3,151,215,.4), rgba(3,151,215,.2), rgba(3,151,215,.0));
+}
+.member_card{
+	margin-top: -6px;
+	background-image: url('image/lowerthard.png');
+	background-size: cover;
+	background-position: center; 
+	background-repeat: no-repeat;
+	height: 300px;
+	padding-bottom: 380px;
+	padding-top: 50px;
+}
+.member-top-card{
+	padding: 0px !important;
+	border-bottom-right-radius: 100px;
+	border-bottom-left-radius: 100px;
+}
+.team-area{
+	width: 100%;
+	padding: 15px;
+	background-image: url('image/Co.png');
+	background-size: contain;
+	background-position: center; 
+	background-repeat: no-repeat;
+}
+.divi{
+	width: 100%;
+	padding: 15px;
+	background-image: url('image/Shape-(1).png');
+	background-size: contain;
+	background-position: center; 
+	background-repeat: no-repeat;
+}
+.detail{
+	height: 950px;
+	overflow-y: scroll;
+}
+.container-div{
+	width: 80%;
+}
+.div-img{
+	width: 100px;
 }
